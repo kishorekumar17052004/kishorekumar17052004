@@ -287,7 +287,7 @@ A React-based assignment portal containing multiple frontend exercises, reusable
 
 <div align="center">
 
-<a href="https://github.com/kishorekumar17052004"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorekumar17052004&theme=tokyonight&hide_border=true" alt="Kishore Kumar GitHub contribution streak" /> </a>
+<a href="https://github.com/kishorekumar17052004"> <img src="https://github-readme-streak-stats-two-drab.vercel.app?user=kishorekumar17052004&theme=tokyonight&hide_border=true" /></a>
 
 </div>
 
@@ -302,16 +302,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=kishorekumar
 width="100%"
 alt="GitHub contribution graph"
 />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=kishorekumar17052004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="Kishore Kumar GitHub achievements" /> </a>
 
 </div>
 
