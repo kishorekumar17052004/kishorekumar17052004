@@ -277,9 +277,21 @@ A React-based assignment portal containing multiple frontend exercises, reusable
 
 <div align="center">
 
-<a href="https://github.com/kishorekumar17052004"> <img height="180" src="https://github-stats-extended.vercel.app/api?username=kishorekumar17052004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Kishore Kumar GitHub statistics" /> </a>
+<a href="https://github.com/kishorekumar17052004">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=kishorekumar17052004&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github"
+    alt="Kishore Kumar GitHub Stats"
+  />
+</a>
 
-<a href="https://github.com/kishorekumar17052004"> <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kishorekumar17052004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Kishore Kumar most used languages" /> </a>
+<a href="https://github.com/kishorekumar17052004">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorekumar17052004&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8"
+    alt="Kishore Kumar Top Languages"
+  />
+</a>
 
 </div>
 
@@ -287,7 +299,13 @@ A React-based assignment portal containing multiple frontend exercises, reusable
 
 <div align="center">
 
-<a href="https://github.com/kishorekumar17052004"> <img src="https://github-readme-streak-stats-two-drab.vercel.app?user=kishorekumar17052004&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/kishorekumar17052004">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=kishorekumar17052004&theme=tokyonight&hide_border=true&border_radius=12"
+    alt="Kishore Kumar GitHub Streak"
+  />
+</a>
 
 </div>
 
