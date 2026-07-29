@@ -277,17 +277,9 @@ A React-based assignment portal containing multiple frontend exercises, reusable
 
 <div align="center">
 
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=kishorekumar17052004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-alt="Kishore's GitHub statistics"
-/>
+<a href="https://github.com/kishorekumar17052004"> <img height="180" src="https://github-stats-extended.vercel.app/api?username=kishorekumar17052004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Kishore Kumar GitHub statistics" /> </a>
 
-<img
-width="49%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=kishorekumar17052004&theme=tokyonight&hide_border=true"
-alt="Kishore's GitHub streak"
-/>
+<a href="https://github.com/kishorekumar17052004"> <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kishorekumar17052004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Kishore Kumar most used languages" /> </a>
 
 </div>
 
@@ -295,11 +287,7 @@ alt="Kishore's GitHub streak"
 
 <div align="center">
 
-<img
-width="45%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorekumar17052004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-alt="Most used languages"
-/>
+<a href="https://github.com/kishorekumar17052004"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorekumar17052004&theme=tokyonight&hide_border=true" alt="Kishore Kumar GitHub contribution streak" /> </a>
 
 </div>
 
@@ -323,10 +311,7 @@ alt="GitHub contribution graph"
 
 <div align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=kishorekumar17052004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4"
-alt="GitHub trophies"
-/>
+<a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=kishorekumar17052004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="Kishore Kumar GitHub achievements" /> </a>
 
 </div>
 
